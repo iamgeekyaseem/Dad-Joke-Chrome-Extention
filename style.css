@@ -1,0 +1,18 @@
+.joke-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+    /* overflow: hidden; */
+    height: 250px;
+    width: 250px;
+    padding: 10px;
+}
+
+.joke-container .dadJokeText{
+    overflow: hidden;
+    border: 1px dashed rgb(47, 103, 154);
+    padding: 10px;
+    border-radius: 2px;
+
+}
